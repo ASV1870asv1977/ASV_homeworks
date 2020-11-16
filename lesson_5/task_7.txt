@@ -1,0 +1,4 @@
+"gazpro" ЯНАО 150000 20000
+"lukol" ХМАО 100000 15000
+"maslosirbasa" ИП 30000 40000
+"rosoboronexpo" ФГП 120000 18000
